@@ -1,0 +1,134 @@
+[
+  {
+    "id": "comm-1793364098352",
+    "category": "suggestion",
+    "authorName": "Test Reviewer",
+    "authorRole": "Clinical Volunteer",
+    "title": "Testing Error Handling & Email Relay",
+    "content": "Checking email dispatch pipeline for alwayzsweetchinu@gmail.com",
+    "timestamp": "Just now",
+    "upvotes": 1,
+    "replies": [],
+    "dispatchedToEmail": "alwayzsweetchinu@gmail.com",
+    "emailStatus": "EmailJS Dispatched (EmailJS Gateway Response: API access from non-browser environments is currently disabled.Enable this option in https://dashboa) — 1-Click Gmail Relay Ready",
+    "emailDispatchId": "email-1793364097928",
+    "gmailComposeUrl": "https://mail.google.com/mail/?view=cm&fs=1&to=alwayzsweetchinu%40gmail.com&su=%5BCureX%20Alert%5D%20New%20Website%20Suggestion%3A%20Testing%20Error%20Handling%20%26%20Email%20Relay&body=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ACUREX%20HEALTHCARE%20PLATFORM%20-%20FOUNDER%20NOTIFICATION%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ATarget%20Founder%20Inbox%3A%20alwayzsweetchinu%40gmail.com%0ACategory%3A%20Website%20Suggestion%0ASubmitted%20By%3A%20Test%20Reviewer%20(Clinical%20Volunteer)%0ATime%3A%2030%2F10%2F2026%2C%206%3A11%3A37%20pm%20(IST)%0A%0ATITLE%3A%0ATesting%20Error%20Handling%20%26%20Email%20Relay%0A%0A%0ACONTENT%20%2F%20MESSAGE%3A%0AChecking%20email%20dispatch%20pipeline%20for%20alwayzsweetchinu%40gmail.com%0A%0A------------------------------------------------%0ASent%20from%20CureX%20Healthcare%20Intelligence%20Platform%0AFounder%20Portal%20Notification%20Gateway%0A------------------------------------------------",
+    "mailtoUrl": "mailto:alwayzsweetchinu%40gmail.com?subject=%5BCureX%20Alert%5D%20New%20Website%20Suggestion%3A%20Testing%20Error%20Handling%20%26%20Email%20Relay&body=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ACUREX%20HEALTHCARE%20PLATFORM%20-%20FOUNDER%20NOTIFICATION%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ATarget%20Founder%20Inbox%3A%20alwayzsweetchinu%40gmail.com%0ACategory%3A%20Website%20Suggestion%0ASubmitted%20By%3A%20Test%20Reviewer%20(Clinical%20Volunteer)%0ATime%3A%2030%2F10%2F2026%2C%206%3A11%3A37%20pm%20(IST)%0A%0ATITLE%3A%0ATesting%20Error%20Handling%20%26%20Email%20Relay%0A%0A%0ACONTENT%20%2F%20MESSAGE%3A%0AChecking%20email%20dispatch%20pipeline%20for%20alwayzsweetchinu%40gmail.com%0A%0A------------------------------------------------%0ASent%20from%20CureX%20Healthcare%20Intelligence%20Platform%0AFounder%20Portal%20Notification%20Gateway%0A------------------------------------------------"
+  },
+  {
+    "id": "comm-1793363622054",
+    "category": "ai_problem",
+    "authorName": "Chayanika Sharma",
+    "authorRole": "Founder",
+    "title": "Pediatric Paracetamol dosage guidance verification",
+    "content": "Verify that pediatric weight-based dosing is prioritized over age-based estimates.",
+    "aiOriginalQuery": "How much paracetamol for 15kg child?",
+    "suggestedCorrection": "15 mg/kg every 4-6 hours, max 60 mg/kg/day.",
+    "timestamp": "Just now",
+    "upvotes": 1,
+    "replies": [],
+    "dispatchedToEmail": "alwayzsweetchinu@gmail.com",
+    "emailStatus": "EmailJS Dispatched (EmailJS Gateway Response: API access from non-browser environments is currently disabled.Enable this option in https://dashboa) — 1-Click Gmail Relay Ready",
+    "emailDispatchId": "email-1793363621614",
+    "gmailComposeUrl": "https://mail.google.com/mail/?view=cm&fs=1&to=alwayzsweetchinu%40gmail.com&su=%5BCureX%20Alert%5D%20New%20AI%20Problem%20Understanding%3A%20Pediatric%20Paracetamol%20dosage%20guidance%20verification&body=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ACUREX%20HEALTHCARE%20PLATFORM%20-%20FOUNDER%20NOTIFICATION%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ATarget%20Founder%20Inbox%3A%20alwayzsweetchinu%40gmail.com%0ACategory%3A%20AI%20Problem%20Understanding%0ASubmitted%20By%3A%20Chayanika%20Sharma%20(Founder)%0ATime%3A%2030%2F10%2F2026%2C%206%3A03%3A41%20pm%20(IST)%0A%0ATITLE%3A%0APediatric%20Paracetamol%20dosage%20guidance%20verification%0A%0AORIGINAL%20QUERY%20ASKED%20TO%20AI%3A%0A%22How%20much%20paracetamol%20for%2015kg%20child%3F%22%0A%0ASUGGESTED%20CLINICAL%20CORRECTION%3A%0A15%20mg%2Fkg%20every%204-6%20hours%2C%20max%2060%20mg%2Fkg%2Fday.%0A%0ACONTENT%20%2F%20MESSAGE%3A%0AVerify%20that%20pediatric%20weight-based%20dosing%20is%20prioritized%20over%20age-based%20estimates.%0A%0A------------------------------------------------%0ASent%20from%20CureX%20Healthcare%20Intelligence%20Platform%0AFounder%20Portal%20Notification%20Gateway%0A------------------------------------------------",
+    "mailtoUrl": "mailto:alwayzsweetchinu%40gmail.com?subject=%5BCureX%20Alert%5D%20New%20AI%20Problem%20Understanding%3A%20Pediatric%20Paracetamol%20dosage%20guidance%20verification&body=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ACUREX%20HEALTHCARE%20PLATFORM%20-%20FOUNDER%20NOTIFICATION%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0ATarget%20Founder%20Inbox%3A%20alwayzsweetchinu%40gmail.com%0ACategory%3A%20AI%20Problem%20Understanding%0ASubmitted%20By%3A%20Chayanika%20Sharma%20(Founder)%0ATime%3A%2030%2F10%2F2026%2C%206%3A03%3A41%20pm%20(IST)%0A%0ATITLE%3A%0APediatric%20Paracetamol%20dosage%20guidance%20verification%0A%0AORIGINAL%20QUERY%20ASKED%20TO%20AI%3A%0A%22How%20much%20paracetamol%20for%2015kg%20child%3F%22%0A%0ASUGGESTED%20CLINICAL%20CORRECTION%3A%0A15%20mg%2Fkg%20every%204-6%20hours%2C%20max%2060%20mg%2Fkg%2Fday.%0A%0ACONTENT%20%2F%20MESSAGE%3A%0AVerify%20that%20pediatric%20weight-based%20dosing%20is%20prioritized%20over%20age-based%20estimates.%0A%0A------------------------------------------------%0ASent%20from%20CureX%20Healthcare%20Intelligence%20Platform%0AFounder%20Portal%20Notification%20Gateway%0A------------------------------------------------"
+  },
+  {
+    "id": "comm-1793362185217",
+    "category": "ai_problem",
+    "authorName": "Dr. Ananya Rao",
+    "authorRole": "Neurologist · AIIMS Delhi",
+    "title": "Migraine aura versus acute stroke differentiating questions",
+    "content": "The AI should specifically probe for negative vs positive visual phenomena (scintillating scotoma vs hemianopsia) and timing onset.",
+    "aiOriginalQuery": "Sudden vision flickering and headache in 35 yo female",
+    "suggestedCorrection": "Add questions differentiating headache onset speed (thunderclap vs gradual) and transient visual sensory symptoms.",
+    "timestamp": "Just now",
+    "upvotes": 1,
+    "replies": [],
+    "dispatchedToEmail": "alwayzsweetchinu@gmail.com",
+    "emailStatus": "Delivered to alwayzsweetchinu@gmail.com",
+    "emailDispatchId": "email-1793362185216"
+  },
+  {
+    "id": "comm-1793361669937",
+    "category": "suggestion",
+    "authorName": "Test Patient",
+    "authorRole": "Jaipur",
+    "title": "Excellent new features",
+    "content": "The Face Scan and mobile medicine alerts are very helpful.",
+    "timestamp": "Just now",
+    "upvotes": 1,
+    "replies": [],
+    "dispatchedToEmail": "alwayzsweetchinu@gmail.com",
+    "emailStatus": "Delivered"
+  },
+  {
+    "id": "comm-1793285886516",
+    "category": "suggestion",
+    "authorName": "Test Patient",
+    "authorRole": "Jaipur",
+    "title": "Great hospital map",
+    "content": "The SMS Hospital Jaipur live map works smoothly.",
+    "timestamp": "Just now",
+    "upvotes": 1,
+    "replies": []
+  },
+  {
+    "id": "c-1",
+    "category": "ai_problem",
+    "authorName": "Dr. Vivek Mehra",
+    "authorRole": "Consultant Cardiologist · Jaipur",
+    "title": "Clarification on pediatric fever dosing advice",
+    "content": "When asked about high fever in infants under 3 months, the AI suggested checking fever for 24 hours first. For infants under 3 months with temperature > 100.4°F (38°C), clinical guidelines mandate immediate pediatric emergency evaluation to rule out serious bacterial infection, not watchful waiting.",
+    "aiOriginalQuery": "What to do for 2-month infant with 101F fever?",
+    "suggestedCorrection": "Always immediately refer neonatal and infant fevers (< 3 months) to the emergency room or pediatrician immediately before administering antipyretics.",
+    "timestamp": "2 hours ago",
+    "upvotes": 24,
+    "replies": [
+      {
+        "author": "Savya Sharma (Co-Founder, CureX)",
+        "text": "Thank you Dr. Mehra! We have updated the clinical triage prompt with a strict rule flagging infant fever < 3 months as an immediate emergency referral.",
+        "timestamp": "1 hour ago"
+      }
+    ]
+  },
+  {
+    "id": "c-2",
+    "category": "suggestion",
+    "authorName": "Priya Narang",
+    "authorRole": "Patient Caregiver · New Delhi",
+    "title": "Add Hindi and regional language voice notes to medicine tracker",
+    "content": "The 3D heart and verified specialist booking are breathtaking! A suggestion for the daily medicine tracker: please add Hindi voice reminders so elderly grandparents who cannot read English screen text can easily understand their morning and night doses.",
+    "timestamp": "Yesterday",
+    "upvotes": 42,
+    "replies": [
+      {
+        "author": "Shravya Garg (Co-Founder, CureX)",
+        "text": "Wonderful suggestion Priya! We are integrating voice narration in Hindi and vernacular dialects into our medicine scheduler.",
+        "timestamp": "20 hours ago"
+      }
+    ]
+  },
+  {
+    "id": "c-3",
+    "category": "ai_problem",
+    "authorName": "Aarav Singhania",
+    "authorRole": "Pharmacology Researcher · Mumbai",
+    "title": "Grapefruit interaction with statins nuance",
+    "content": "The assistant correctly noted that Atorvastatin lowers LDL, but did not mention that excessive consumption of grapefruit juice inhibits CYP3A4 metabolism, significantly increasing statin serum levels and rhabdomyolysis risk.",
+    "aiOriginalQuery": "Dietary cautions while taking Atorvastatin 20mg?",
+    "suggestedCorrection": "Include a specific advisory warning against grapefruit and Seville oranges for patients on CYP3A4-metabolized statins (atorvastatin, simvastatin).",
+    "timestamp": "3 days ago",
+    "upvotes": 19
+  },
+  {
+    "id": "c-4",
+    "category": "suggestion",
+    "authorName": "Col. R.S. Rathore (Retd.)",
+    "authorRole": "Elderly Patient · Jaipur",
+    "title": "SMS Hospital trauma route directions are very helpful",
+    "content": "The hospital radar accurately showed the emergency gate location for SMS Hospital Jaipur with direct phone numbers. My suggestion is to also include estimated waiting times at emergency triage desks if possible.",
+    "timestamp": "4 days ago",
+    "upvotes": 31
+  }
+]

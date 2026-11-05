@@ -1,0 +1,13 @@
+[
+  {
+    "id": "newmed-sub-1793361680924",
+    "phone": "+91 98290 12345",
+    "email": "patient@example.com",
+    "diseaseCategories": [
+      "Type 2 Diabetes & Metabolic"
+    ],
+    "patientNotes": "",
+    "subscribedAt": "2026-10-30T12:01:20.924Z",
+    "status": "Subscribed to Market Launches"
+  }
+]

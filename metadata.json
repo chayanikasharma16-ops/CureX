@@ -1,0 +1,11 @@
+{
+  "name": "CureX",
+  "description": "CureX — Compassionate healthcare, powered by intelligence. AI health assistant, AI Face Scan diagnostics, medicine dose SMS alerts, new market drug notifications, verified specialists across 40+ cities, and nearby hospital radar.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
